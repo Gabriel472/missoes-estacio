@@ -1,0 +1,86 @@
+/*Página de receitas*/
+.painel-receitas{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.receitas {
+    display: inline-block;
+    height: auto;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    background-color: #F7FAD2;
+}
+
+/*Start of large tablet styles*/
+@media screen and (max-width: 991px) {
+    
+}
+
+/*Start of medium tablet styles*/
+@media screen and (max-width: 767px) {
+    
+}
+
+/*Start of phone styles*/
+@media screen and (max-width: 479px) {
+    
+}
+
+/*Start of smaller phone styles*/
+@media screen and (max-width: 320px) {
+    
+}
+
+.imagens {
+    width: 288px;
+    height: 160px;
+    display: flex;
+    margin: auto;
+}
+
+hr {
+    color: #C1C0AD;
+}
+
+.subtitulo {
+    background-color: #D3C7A5;
+    height: auto;
+    width: auto;
+    font-size: 1.3rem;
+}
+
+h3 {
+    font-size: 1.25rem;
+}
+
+.card-title {
+    font-size: 1.65rem;
+    text-align: center;
+}
+
+/*Start of large tablet styles
+@media screen and (max-width: 991px) {
+    
+}
+
+Start of medium tablet styles
+@media screen and (max-width: 767px) {
+    
+}
+
+Start of phone styles
+@media screen and (max-width: 479px) {
+
+}
+
+Start of smaller phone styles
+@media screen and (max-width: 320px) {
+    
+}*/
